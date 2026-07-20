@@ -9,7 +9,8 @@ Diese App ist bewusst „local-first“ gebaut: Deine Daten (Ernährungstagebuch
 ## Verantwortlicher
 
 Kevin Zimbelmann
-[ADRESSE ERGÄNZEN]
+Wollanger 3
+84130 Dingolfing
 Kontakt: prepwerk.apps@gmail.com
 
 Bei Fragen zum Datenschutz in dieser App kannst du dich jederzeit an die genannte Adresse wenden.
