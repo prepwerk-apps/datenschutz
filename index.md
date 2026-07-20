@@ -53,4 +53,4 @@ Nach der DSGVO hast du u. a. das Recht auf Auskunft, Berichtigung, Löschung und
 
 Wenn die App neue Funktionen mit neuen Datenflüssen erhält (z. B. eine freiwillige Feedback-Funktion), wird diese Erklärung entsprechend aktualisiert. Die jeweils aktuelle Fassung findest du immer hier in der App.
 
-Stand: \(DatenschutzView.stand)
+Stand: 20. Juli 2026
