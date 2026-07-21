@@ -4,7 +4,7 @@ für die Tankgeld-App von Prepwerk Apps
 
 ## Kurz gesagt
 
-Diese App ist bewusst „local-first" gebaut: Deine Daten (Fahrten, Fahrzeuge, Verbrauchswerte, Spritpreise, Einstellungen) werden ausschließlich lokal auf deinem iPhone gespeichert. Es gibt kein Benutzerkonto, keine Anmeldung, keine Werbung, kein Tracking und keine Analyse-Dienste. Wir betreiben keinen eigenen Server und können deine Daten nicht einsehen.
+Diese App ist bewusst „local-first“ gebaut: Deine Daten (Fahrten, Fahrzeuge, Verbrauchswerte, Spritpreise, Einstellungen) werden ausschließlich lokal auf deinem iPhone gespeichert. Es gibt kein Benutzerkonto, keine Anmeldung, keine Werbung, kein Tracking und keine Analyse-Dienste. Wir betreiben keinen eigenen Server und können deine Daten nicht einsehen.
 
 ## Verantwortlicher
 
@@ -37,7 +37,7 @@ Die Kamera bzw. deine Fotobibliothek wird nur genutzt, wenn du aktiv ein Foto de
 
 **PayPal:** Hinterlegst du freiwillig deinen PayPal.me-Nutzernamen, erzeugt die App daraus einen Zahlungslink (Nutzername + Betrag). Öffnest du ihn oder teilst du ihn, verarbeitet PayPal die Zahlung nach seinen eigenen Datenschutzbestimmungen. Die App selbst überträgt nichts an PayPal.
 
-**Navigation:** „In Apple Maps/Google Maps öffnen" übergibt Start und Ziel an die jeweilige Karten-App.
+**Navigation:** „In Apple Maps/Google Maps öffnen“ übergibt Start und Ziel an die jeweilige Karten-App.
 
 ## Kein Tracking, keine Dritten
 
