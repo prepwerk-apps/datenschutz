@@ -37,9 +37,17 @@ Wenn du einen Barcode scannst, per Name nach Produkten suchst oder dir Produktvo
 
 Die Kamera wird nur genutzt, wenn du sie aktiv startest - zum Scannen von QR-/Barcodes oder zum Fotografieren von Rezepten und Nährwerttabellen. Fotos, die du aufnimmst oder aus deiner Mediathek wählst, bleiben lokal in der App gespeichert. Speicherst du ein erzeugtes Bild (z. B. ein Rezept-Bild) in deine Foto-Mediathek, fragt iOS vorher um Erlaubnis.
 
+## Feedback über iCloud (CloudKit)
+
+Wenn du uns über die Feedback-Funktion schreibst, wird dein Text (plus optionale Fotos, App-Version und Gerätemodell) über Apples iCloud (CloudKit) an uns übertragen und dort gespeichert. Das passiert nur, wenn du aktiv auf Senden tippst. Rechtsgrundlage: deine Einwilligung bzw. die Bearbeitung deiner Anfrage (Art. 6 Abs. 1 lit. a bzw. b DSGVO).
+
+## QR-Codes auf deinen Boxen
+
+Die QR-Codes auf deinen Meal-Prep-Boxen enthalten einen Link auf unsere Seite (prepwerk-apps.github.io). Scannst du einen solchen Code, während die App NICHT installiert ist, öffnet sich diese Seite im Browser - dabei wird technisch bedingt deine IP-Adresse an GitHub Pages (GitHub, Inc.) übertragen. Mit installierter App bleibt alles lokal auf dem Gerät.
+
 ## Kein Tracking, keine Dritten
 
-Die App enthält keine Werbe- oder Analyse-SDKs, setzt keine Cookies und erstellt keine Nutzungsprofile. Außer der oben beschriebenen Anfrage an Open Food Facts findet keine Datenübertragung an Dritte statt.
+Die App enthält keine Werbe- oder Analyse-SDKs, setzt keine Cookies und erstellt keine Nutzungsprofile. Über die oben beschriebenen Fälle hinaus (Open Food Facts, freiwilliges Feedback über iCloud sowie das Öffnen eines QR-Links ohne installierte App) findet keine Datenübertragung an Dritte statt.
 
 ## Löschen deiner Daten
 
@@ -53,4 +61,4 @@ Nach der DSGVO hast du u. a. das Recht auf Auskunft, Berichtigung, Löschung und
 
 Wenn die App neue Funktionen mit neuen Datenflüssen erhält (z. B. eine freiwillige Feedback-Funktion), wird diese Erklärung entsprechend aktualisiert. Die jeweils aktuelle Fassung findest du immer hier in der App.
 
-Stand: 20. Juli 2026
+Stand: Juli 2026
