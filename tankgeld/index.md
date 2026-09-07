@@ -8,12 +8,10 @@ Diese App ist bewusst „local-first“ gebaut: Deine Daten (Fahrten, Fahrzeuge,
 
 ## Verantwortlicher
 
-Kevin Zimbelmann
-Wollanger 3
-84130 Dingolfing
+Prepwerk Apps
 Kontakt: prepwerk.apps@gmail.com
 
-Bei Fragen zum Datenschutz in dieser App kannst du dich jederzeit an die genannte Adresse wenden.
+Bei Fragen zum Datenschutz in dieser App kannst du dich jederzeit an diese Adresse wenden.
 
 ## Lokale Speicherung deiner Daten
 
